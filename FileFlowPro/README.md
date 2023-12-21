@@ -5,6 +5,8 @@
 
   - แก้ไขจำนวนสินค้าที่ไปรวมกับรายการอื่น
 
+  ![alt text](https://github.com/newsix6/download/blob/main/FileFlowPro/content/FileFlowPro_1.7.5.png?raw=true)
+
 - [ดาวน์โหลด Fileflow V1.7.4 (16/ธ.ค./2023)](https://drive.usercontent.google.com/download?id=1iTXnXtsYlSjXnj501TtA493g711ryULn&export=download&authuser=2&confirm=t&uuid=51eae5f3-17d7-41b9-b0cc-9cd56be33890&at=APZUnTVYl17mo0wtqE5a79xOr4nZ:1702727145928)
   `grouping , folder`
 
